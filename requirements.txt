@@ -1,0 +1,7 @@
+# Data Processing and Financial Analysis
+yfinance>=0.2.36
+pandas>=2.1.4
+numpy>=1.26.3
+
+# Optional: Additional utilities for financial calculations
+python-dateutil>=2.8.2
